@@ -6,10 +6,10 @@ Welcome to our official Imagine Cup 2025 repository! This project is part of our
 ---
 
 ## 👥 Team Members
-- **Ahmed Yasser**
 - **Ramy Gamal**
 - **Syed Fawaz**
 - **Tareq Ghazi**
+- **Ahmed Yasser**
 
 ---
 
