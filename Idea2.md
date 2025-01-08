@@ -12,16 +12,6 @@ The platform uses **machine learning** to identify areas for improvement and rec
 
 ---
 
-## 📈 Evaluation
-- **Feasibility:** ⭐⭐⭐⭐⭐ (9/10) – Achievable with Microsoft AI services.
-- **Innovation:** ⭐⭐⭐⭐☆ (8/10) – Unique combination of career tools.
-- **Impact:** ⭐⭐⭐⭐☆ (8/10) – Strong positive impact on career readiness.
-- **User Adoption:** ⭐⭐⭐⭐☆ (8/10) – Likely to be popular among students.
-- **Scalability:** ⭐⭐⭐⭐⭐ (9/10) – Highly scalable for various regions and industries.
-
-
----
-
 # Key Features for the Interview Preparation Platform
 
 - **VR Mock Interviews**  
