@@ -1,4 +1,4 @@
-# 🎯 Imagine Cup 2025 Project Repository
+# 🎯 Imagine Cup 2025 Project Repository  
 
 Welcome to our official Imagine Cup 2025 repository! This project is part of our participation in the **Microsoft Imagine Cup**, a prestigious global technology competition that challenges students to create innovative solutions using advanced AI technologies provided by Microsoft. 
 
